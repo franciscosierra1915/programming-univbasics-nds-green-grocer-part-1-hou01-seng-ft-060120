@@ -31,4 +31,5 @@ cart.each do |hash|
 end
 
 frank_cart
+binding.pry
 end
